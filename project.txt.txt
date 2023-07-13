@@ -1,0 +1,33 @@
+ <h2>My Projects</h2>
+
+    		<div class="grid-container">
+    			<div class="grid-item">
+    				<code><h3> Photography </h3></code>
+    			<img src="image/f1.jpeg" alt="f1.jpeg" height="200px" width="200px">
+    		<p class="para">Photography is the art of capturing light with a camera, usually via a digital sensor or film, to create an image. With the right camera equipment, you can even photograph wavelengths of light invisible to the human eye, including UV, infrared, and radio.</p>
+            </div>
+      
+		<div class="grid-item">
+			<code><h4>User Experience Designning</h4></code>
+			<img src="image/f2.jpeg" alt="f2.jpeg" height="200px" width="200px">
+    		<p class="para">User experience is a person's emotions and attitudes about using a particular product, system or service. It includes the practical, experiential, affective, meaningful, and valuable aspects of human–computer interaction and product ownership..</p>
+      </div>
+      
+      <div class="grid-item">
+      	<code><h5> Web dessignning</h5></code>
+      	<img src="image/f3.jpeg" alt="f3.jpeg" height="200px" width="200px">
+    		<p class="para">Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization.</p>
+            </div>
+        </div>
+
+         <div class="grid-item">
+      	<code><h5> Animation</h5></code>
+      	<img src="image/f4.jpeg" alt="f4.jpeg" height="200px" width="200px">
+    		<p class="para">Animation is a method in which figures are manipulated to appear as moving images. In traditional animation, images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film. Today, most animations are made with computer-generated imagery.</p>
+            </div>
+        </div>
+
+        </div>
+
+         </section>
+	

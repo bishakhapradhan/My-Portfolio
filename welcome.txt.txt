@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Profile</title>
+    <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial scale=1.0">
+	<style>
+	
+.grid-container {
+  display: inline-grid;
+  grid-gap:20px;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.name{
+	color:bold black;
+	text-align: center;
+}
+
+	.shadowbox{
+		width: 80em;
+		height:500px;
+		border:2px solid #333;
+		box-shadow: 8px 8px 5px #444;
+		padding:12px 12px;
+		float: center;
+		background-image: url(image/girl.jpeg);
+		background-image: cover;
+		background-image: no-repeat;
+		color:pink;
+	
+		
+	}
+ 
+
+	nav {
+	list-style-type: none;
+	background-color: black;
+	margin:1%;
+	padding:1%;
+	overflow: hidden;
+
+}
+
+li {
+	display: inline;
+	float: left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center; 
+	padding: 10px 14px;
+	text-decoration: none;
+	float: center;
+
+}
+
+		
+li a:hover{
+	background-color:black;
+}
+body {
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+
+}
+ p{
+	
+	color:black;
+}
+
+@media only screen and (max-width: 1200px) {
+  body {
+    background-image:url(image/girl.jpeg);
+  }
+}body {
+  background-color: url(image/girl.jpeg);
+  background-repeat: no-repeat;
+	    background-size: cover;
+}
+
+@media only screen and (max-width: 1200px) {
+  body {
+    background-color: black;
+  }
+}
+
+</style>
+<body>
+
+
+	<nav>
+		<li><a href="homepage.html">Home</a></li>
+		<li><a href="about.html">About</a></li>
+		<li><a href="newspage.html">news</a></li>
+		<li><a href="contactus.html">Contact</a></li>
+		<li><a href="GitHub.html">GitHub</a></li>
+		
+		
+	</nav>
+    
+	<div class="shadowbox">
+		<div>
+			<h1>I AM 
+			    BISHAKHA PRADHAN</h1>
+		</div >
+		
+
+	<p ><h3><b>HI! You're welcome in this portfolio page.I am a passionate student of computer science.I am currently studying in Kist college of science and technology.And i am from Biratnagar.I am at the beginner level on web development. so, I am learning alot of things . I am fully interested on design and development field so,i will try to give my best in upcoming days.
+    Thank you..</h3></b>
+
+    
+
+</div>
+
+<nav>
+		<li><a href="project.html">Get started</a></li>
+	</nav>
+    <h2>My Projects</h2>
+
+    		<div class="grid-container">
+    			<div class="grid-item">
+    				<code><h3> Photography </h3></code>
+    			<img src="image/f1.jpeg" alt="f1.jpeg" height="200px" width="200px">
+    		<p class="para">This is my first project which I tried only for learning purpose by using basic of html and
+                css.</p>
+            </div>
+      
+		<div class="grid-item">
+			<code><h4>User Experience Designning</h4></code>
+			<img src="image/f2.jpeg" alt="f2.jpeg" height="200px" width="200px">
+    		<p class="para">This is my second project which I tried only for learning purpose by using basic of html and
+                css.</p>
+      </div>
+      
+      <div class="grid-item">
+      	<code><h5> Web dessignning</h5></code>
+      	<img src="image/f3.jpeg" alt="f3.jpeg" height="200px" width="200px">
+    		<p class="para">This is my third project which I tried only for learning purpose by using basic of html and
+                css.</p>
+            </div>
+        </div>
+
+         <div class="grid-item">
+      	<code><h5> Animation</h5></code>
+      	<img src="image/f4.jpeg" alt="f4.jpeg" height="200px" width="200px">
+    		<p class="para">This is my fourth project which I tried only for learning purpose by using basic of html and
+                css.</p>
+            </div>
+        </div>
+
+        </div>
+
+         </section>
+    <style>
+	.shadowbox{
+		width: 80em;
+		border:2px solid #333;
+		box-shadow: 8px 8px 5px #444;
+		padding:12px 12px;
+		float: center;
+	}
+
+
+ nav {
+	list-style-type: none;
+	background-color: black;
+	margin:1%;
+	padding: 1%;
+	overflow: hidden;
+
+}
+
+</style>
+<nav>
+	 <li><a href="#contact.html">Contact: Bishakhapradhan007@gmail.com</a></li>
+            <li><a href="#copyright.html">copyright: Designed by Bishakha Pradhan</a></li>
+            <li><a href="#phone no.html">phone no: 9816343007</a></li>
+            <li><a href="#address.html">address: Biratnagar, Traffic chowk</a></li>
+	     <img src ="image/insta.png" alt ="imageinsert" height ="50" width ="50">
+		<img src ="image/fb.png" alt ="imageinsert" height ="50" width ="50">
+		<img src ="image/twitter.jpg" alt ="imageinsert" height ="50" width ="50">
+</nav>
+</body>
+</head>
+
+</html>
